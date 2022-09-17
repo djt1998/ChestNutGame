@@ -2,6 +2,6 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-Library/
-Logs/
-UserSettings/
+/Library/
+/Logs/
+/UserSettings/
